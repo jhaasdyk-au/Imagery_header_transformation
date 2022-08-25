@@ -1,0 +1,43 @@
+======================
+::Compression Report::
+======================
+
+                      Begin : Mon Feb 18 16:58:21 2019
+
+::
+:: System Information :
+::
+          Computer Platform : Microsoft Windows 8  64-bit  (Build 9200)
+                  Processor : Intel(R) Xeon(R) CPU E5-2697 v3 @ 2.60GHz
+                       CPUs : 32 Logical Processor(s)
+                        RAM : 63.9 GB
+             Virtual Memory : 4.0 GB
+        ECW/JP2 SDK Version : 5.3.0.911
+      ERDAS IMAGINE Version : 16.00.0000.00650
+
+::
+:: Compression Parameters :
+::
+           Encoding Threads : 8
+       Encode Cache Setting : 1.62 GB
+       Decode Cache Setting : 600.00 MB
+      Tile Size (in pixels) : 64 x 64
+                Null Region : Yes
+               Target Ratio : 5
+         Compression Format : RGB
+                ECW Version : 2
+
+::
+:: Output :
+::
+                  File Path : j:/haasdykj/shannon/MountPanorama_2013_04_10cm.ecw
+                  File Size : 116.41 MB (122,061,694 bytes)
+                      Width : 19,467
+                     Height : 13,154
+                      Bands : 3
+                     Pixels : 768,206,754
+               Actual Ratio : 6.29
+           Compression Time : 746.441 seconds at 0.98 MB/s
+            Statistics Time : 0.195 seconds
+
+                        End : Mon Feb 18 17:10:51 2019
